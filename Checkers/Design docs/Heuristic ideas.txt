@@ -1,0 +1,17 @@
+my chips (kings are worth more)-opponent chip(kings are worth more)
+Pawn’s value = 1
+King’s value = 2 
+
+pieces in the back row are worth more
+
+Pawn in the opponent's half of the board value = 7
+Pawn in the player's half of the board value = 5
+King’s value = 10 
+
+the number of legal move for each player
+
+regular piece worth=1 or -1
+
+backrow piece worth=2 or -2
+pice in opponents half worth= 3 or -3
+king piece worth=5 or -5
